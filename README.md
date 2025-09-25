@@ -12,10 +12,19 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXk0eTQzZ2I1OHN6OW42eHcxcDByeGJ3bjNsZ3VjNXhlbG9xdXE1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7rWT2mzgyxrzYyUdVg/giphy.gif" />
 </div>
 
+<br>
+<br>
+<br>
+<br>
+<br>
 <div align="center">
   <img src="img/cute_eyes.jpg" width="400"/>
 </div>
-
+<br>
+<br>
+<br>
+<br>
+<br>
 ### 🌸 About Little Me ૮ ˶ᵔ ᵕ ᵔ˶ ა
 
 ```
@@ -30,11 +39,19 @@
 └─────────────────────────────────┘
 
 ```
-
+<br>
+<br>
+<br>
+<br>
+<br>
 <div align="center">
   <img src="img/cute_eyes.jpg" width="400"/>
 </div>
-
+<br>
+<br>
+<br>
+<br>
+<br>
 ### 🛠️ My Cute Tech Stack ♡(˶╹̆ ‸╹̆ ˵)♡
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github,vscode&theme=light" />
@@ -45,11 +62,19 @@
   <img src="https://img.shields.io/badge/Coding-With Love-FFB6C1?style=for-the-badge&logo=heart&logoColor=white"/>
 </p>
 
-
+<br>
+<br>
+<br>
+<br>
+<br>
 <div align="center">
   <img src="img/cute_eyes.jpg" width="400"/>
 </div>
-
+<br>
+<br>
+<br>
+<br>
+<br>
 ### 🦋 Daily Vibes & Aesthetic ‧₊˚ ⋅
 <div align="center">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="150" alt="Cute coding"/>
@@ -63,11 +88,19 @@
     ✨ Evening: Learning New Things
     🌙 Night: Dreaming of Tomorrow
 ```
-
+<br>
+<br>
+<br>
+<br>
+<br>
 <div align="center">
   <img src="img/cute_eyes.jpg" width="400"/>
 </div>
-
+<br>
+<br>
+<br>
+<br>
+<br>
 ### 📊 My Cute Stats ૮₍ ˶• ˕ •˶ ₎ა
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TON-USERNAME&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
@@ -77,11 +110,19 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TON-USERNAME&theme=buefy" alt="streak stats"/>
 </div>
-
+<br>
+<br>
+<br>
+<br>
+<br>
 <div align="center">
   <img src="img/cute_eyes.jpg" width="400"/>
 </div>
-
+<br>
+<br>
+<br>
+<br>
+<br>
 ### 🎀 Fun Facts About Me ˶ᵔ ᵕ ᵔ˶
 - 🦋 I collect cute code snippets like butterflies
 - 🌸 I name my variables with adorable names
@@ -89,11 +130,19 @@
 - 🎨 I dream in pastel color codes
 - 🌈 My favorite debugging tool is a cup of tea and positive vibes
 
-
+<br>
+<br>
+<br>
+<br>
+<br>
 <div align="center">
   <img src="img/cute_eyes.jpg" width="400"/>
 </div>
-
+<br>
+<br>
+<br>
+<br>
+<br>
 ### 🌷 Let's Be Friends! ♡⸝⸝ ʚ♡ɞ ⸝⸝♡
 <p align="center">
   <a href="https://www.linkedin.com/in/TON-LINKEDIN/">
@@ -103,7 +152,11 @@
     <img src="https://img.shields.io/badge/Email-Say Hi!-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
+<br>
+<br>
+<br>
+<br>
+<br>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=TON-USERNAME&color=FF69B4&style=for-the-badge&label=Profile+Views" />
 </div>
