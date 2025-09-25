@@ -104,21 +104,11 @@
   </a>
 </p>
 
-
-<p align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
-  <em><b>"Coding my way through life, one cute commit at a time"</b></em>
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-</p>
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=TON-USERNAME&color=FF69B4&style=for-the-badge&label=Profile+Views" />
 </div>
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWNyczVoNGI1NXR6YnZ3c2Ryd2tyb2VsaXBkbWo0MHBoeWdxOXU0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/y5ncrsCFzZOzINK7qD/giphy.gif" width="60"> 
   <em><b>"Coding my way through life, one cute commit at a time"</b></em>
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWNyczVoNGI1NXR6YnZ3c2Ryd2tyb2VsaXBkbWo0MHBoeWdxOXU0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/y5ncrsCFzZOzINK7qD/giphy.gif" width="60">
 </p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TON-USERNAME&color=FF69B4&style=for-the-badge&label=Profile+Views" />
-</div>
