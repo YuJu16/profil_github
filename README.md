@@ -19,11 +19,14 @@
 ```
 ┌─────────────────────────────────┐
 │  ✨ Creative Web Developer      │
-│  🦋 Butterfly & Pastel Lover   │  
+│  🦋 Butterfly & Cat Lover      │  
 │  🌸 Dreaming in Code           │
 │  ☀️ Spreading Joy & Creativity │
 │  🎀 Always Learning Something  │
+│  📚 Manga & Japanese Culture   │
+│  🎶 Music & Aesthetic Vibes    │
 └─────────────────────────────────┘
+
 ```
 
 <p align="center">
