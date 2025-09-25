@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I’m Ju 🦋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="200" alt="Butterfly gif"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3FuNzIwcWFycTMyMnB2bmtiaXBzZGsxOWJ2a2ttanE0NnE0OWU1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vMSXa7KFGx49aeeXhe/giphy.gif" width="200" alt=" gif"/>
 </p>
 
 ---
