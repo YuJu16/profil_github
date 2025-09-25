@@ -32,7 +32,7 @@
 ```
 
 <p align="center">
-  <img src="https://pin.it/4Fg5pBK5K" width="300" />
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino.gif?raw=true" width="300" />
 </p>
 
 <div align="center">
