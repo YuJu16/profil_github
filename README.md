@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%"/>
 </div>
 
 ### 🌸 About Little Me ૮ ˶ᵔ ᵕ ᵔ˶ ა
@@ -36,7 +36,7 @@
 </p>
 
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%"/>
 </div>
 
 ### 🛠️ My Cute Tech Stack ♡(˶╹̆ ‸╹̆ ˵)♡
@@ -50,7 +50,7 @@
 </p>
 
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%"/>
 </div>
 
 ### 🦋 Daily Vibes & Aesthetic ‧₊˚ ⋅
@@ -68,7 +68,7 @@
 ```
 
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%"/>
 </div>
 
 ### 📊 My Cute Stats ૮₍ ˶• ˕ •˶ ₎ა
@@ -82,7 +82,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%"/>
 </div>
 
 ### 🎀 Fun Facts About Me ˶ᵔ ᵕ ᵔ˶
@@ -93,7 +93,7 @@
 - 🌈 My favorite debugging tool is a cup of tea and positive vibes
 
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%"/>
 </div>
 
 ### 🌷 Let's Be Friends! ♡⸝⸝ ʚ♡ɞ ⸝⸝♡
@@ -107,7 +107,7 @@
 </p>
 
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%"/>
 </div>
 
 <div align="center">
