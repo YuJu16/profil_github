@@ -31,14 +31,6 @@
 
 ```
 
-<p align="center">
-  <img src="https://i.imgur.com/lUITpVs.gif" width="300" />
-</p>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%"/>
-</div>
-
 <div align="center">
   <img src="img/cute_eyes.jpg" width="400"/>
 </div>
@@ -53,9 +45,6 @@
   <img src="https://img.shields.io/badge/Coding-With Love-FFB6C1?style=for-the-badge&logo=heart&logoColor=white"/>
 </p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%"/>
-</div>
 
 <div align="center">
   <img src="img/cute_eyes.jpg" width="400"/>
@@ -76,10 +65,6 @@
 ```
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%"/>
-</div>
-
-<div align="center">
   <img src="img/cute_eyes.jpg" width="400"/>
 </div>
 
@@ -94,10 +79,6 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%"/>
-</div>
-
-<div align="center">
   <img src="img/cute_eyes.jpg" width="400"/>
 </div>
 
@@ -108,9 +89,6 @@
 - 🎨 I dream in pastel color codes
 - 🌈 My favorite debugging tool is a cup of tea and positive vibes
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%"/>
-</div>
 
 <div align="center">
   <img src="img/cute_eyes.jpg" width="400"/>
@@ -126,9 +104,6 @@
   </a>
 </p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%"/>
-</div>
 
 <p align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
