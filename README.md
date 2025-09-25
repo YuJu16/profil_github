@@ -12,13 +12,15 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXk0eTQzZ2I1OHN6OW42eHcxcDByeGJ3bjNsZ3VjNXhlbG9xdXE1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7rWT2mzgyxrzYyUdVg/giphy.gif" />
 </div>
 
----
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
 ### 🌸 About Little Me ૮ ˶ᵔ ᵕ ᵔ˶ ა
 
 ```
 ┌─────────────────────────────────┐
-│  ✨ Creative Web Developer      │
+│  ✨ Creative Web Developer     │
 │  🦋 Butterfly & Cat Lover      │  
 │  🌸 Dreaming in Code           │
 │  ☀️ Spreading Joy & Creativity │
@@ -33,7 +35,9 @@
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino.gif?raw=true" width="300" />
 </p>
 
----
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
 ### 🛠️ My Cute Tech Stack ♡(˶╹̆ ‸╹̆ ˵)♡
 <div align="center">
@@ -45,7 +49,9 @@
   <img src="https://img.shields.io/badge/Coding-With Love-FFB6C1?style=for-the-badge&logo=heart&logoColor=white"/>
 </p>
 
----
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
 ### 🦋 Daily Vibes & Aesthetic ‧₊˚ ⋅
 <div align="center">
@@ -61,7 +67,9 @@
     🌙 Night: Dreaming of Tomorrow
 ```
 
----
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
 ### 📊 My Cute Stats ૮₍ ˶• ˕ •˶ ₎ა
 <div align="center">
@@ -73,7 +81,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TON-USERNAME&theme=buefy" alt="streak stats"/>
 </div>
 
----
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
 ### 🎀 Fun Facts About Me ˶ᵔ ᵕ ᵔ˶
 - 🦋 I collect cute code snippets like butterflies
@@ -82,7 +92,9 @@
 - 🎨 I dream in pastel color codes
 - 🌈 My favorite debugging tool is a cup of tea and positive vibes
 
----
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
 ### 🌷 Let's Be Friends! ♡⸝⸝ ʚ♡ɞ ⸝⸝♡
 <p align="center">
@@ -94,7 +106,9 @@
   </a>
 </p>
 
----
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&text=Thanks+for+visiting!&fontSize=20&fontColor=FF69B4" />
