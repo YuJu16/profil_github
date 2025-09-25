@@ -16,6 +16,10 @@
   <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%"/>
 </div>
 
+<div align="center">
+  <img src="https://i.imgur.com/lUITpVs.gif" width="100%" height="20"/>
+</div>
+
 ### 🌸 About Little Me ૮ ˶ᵔ ᵕ ᵔ˶ ა
 
 ```
@@ -32,11 +36,15 @@
 ```
 
 <p align="center">
-  <img src="https://imgur.com/a/lUITpVs" width="300" />
+  <img src="https://i.imgur.com/lUITpVs.gif" width="300" />
 </p>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://i.imgur.com/lUITpVs.gif" width="100%" height="20"/>
 </div>
 
 ### 🛠️ My Cute Tech Stack ♡(˶╹̆ ‸╹̆ ˵)♡
@@ -51,6 +59,10 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://i.imgur.com/lUITpVs.gif" width="100%" height="20"/>
 </div>
 
 ### 🦋 Daily Vibes & Aesthetic ‧₊˚ ⋅
@@ -71,6 +83,10 @@
   <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%"/>
 </div>
 
+<div align="center">
+  <img src="https://i.imgur.com/lUITpVs.gif" width="100%" height="20"/>
+</div>
+
 ### 📊 My Cute Stats ૮₍ ˶• ˕ •˶ ₎ა
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TON-USERNAME&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
@@ -85,6 +101,10 @@
   <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%"/>
 </div>
 
+<div align="center">
+  <img src="https://i.imgur.com/lUITpVs.gif" width="100%" height="20"/>
+</div>
+
 ### 🎀 Fun Facts About Me ˶ᵔ ᵕ ᵔ˶
 - 🦋 I collect cute code snippets like butterflies
 - 🌸 I name my variables with adorable names
@@ -94,6 +114,10 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://i.imgur.com/lUITpVs.gif" width="100%" height="20"/>
 </div>
 
 ### 🌷 Let's Be Friends! ♡⸝⸝ ʚ♡ɞ ⸝⸝♡
