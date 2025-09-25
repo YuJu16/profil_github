@@ -17,7 +17,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/lUITpVs.gif" width="100%" height="20"/>
+  <img src="img/cute_eyes.jpg" width="100%" height="20"/>
 </div>
 
 ### 🌸 About Little Me ૮ ˶ᵔ ᵕ ᵔ˶ ა
@@ -44,7 +44,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/lUITpVs.gif" width="100%" height="20"/>
+  <img src="img/cute_eyes.jpg" width="100%" height="20"/>
 </div>
 
 ### 🛠️ My Cute Tech Stack ♡(˶╹̆ ‸╹̆ ˵)♡
@@ -62,7 +62,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/lUITpVs.gif" width="100%" height="20"/>
+  <img src="img/cute_eyes.jpg" width="100%" height="20"/>
 </div>
 
 ### 🦋 Daily Vibes & Aesthetic ‧₊˚ ⋅
@@ -84,7 +84,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/lUITpVs.gif" width="100%" height="20"/>
+  <img src="img/cute_eyes.jpg" width="100%" height="20"/>
 </div>
 
 ### 📊 My Cute Stats ૮₍ ˶• ˕ •˶ ₎ა
@@ -102,7 +102,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/lUITpVs.gif" width="100%" height="20"/>
+  <img src="img/cute_eyes.jpg" width="100%" height="20"/>
 </div>
 
 ### 🎀 Fun Facts About Me ˶ᵔ ᵕ ᵔ˶
@@ -117,7 +117,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/lUITpVs.gif" width="100%" height="20"/>
+  <img src="img/cute_eyes.jpg" width="100%" height="20"/>
 </div>
 
 ### 🌷 Let's Be Friends! ♡⸝⸝ ʚ♡ɞ ⸝⸝♡
