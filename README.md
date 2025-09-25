@@ -2,6 +2,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&weight=700&size=38&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&height=70&lines=Hi+there,+I'm+Ju+%F0%9F%A6%8B" alt="Typing SVG" />
 </div>
 
+<div align="center" style="position: relative;">
+  <img src="img/txt_bulle.png" width="400" alt="Text bubble"/>
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: #FF69B4; font-family: 'Comfortaa', cursive; font-size: 24px; font-weight: bold;">
+    Hello, I'm Ju 🦋
+  </div>
+</div>
+
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWtyaHoycG81dDR2bmpwM2gxcGhkYWthM2ZzNndvaWI1cTJ2cGtpcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/yP5lOY2U4QaQqJn2Wj/giphy.gif" width="60" alt="Cute butterfly"/>
   <em style="color: #ffa3d1ff; font-size: 18px;">Welcome to my world</em>
@@ -46,7 +53,7 @@
 <br>
 <br>
 <div align="center">
-  <img src="img/cute_eyes.jpg" width="250"/>
+  <img src="img/cute_eyes.jpg" width="400"/>
 </div>
 <br>
 <br>
