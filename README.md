@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I’m Ju 🦋</h1>
 
 <p align="center">
-  <img src="https://fr.pinterest.com/pin/52917364367313839" width="200" alt="Kitty gif"/>
+  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="200" alt="Butterfly gif"/>
 </p>
 
 ---
@@ -37,8 +37,8 @@
 
 ### 🌷 Let’s Connect
 <p align="center">
-  <a href="https://www.linkedin.com/in/julia-gari-768759334"><img src="https://img.shields.io/badge/-LinkedIn-pink?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:juliagaripro@gmail.com"><img src="https://img.shields.io/badge/-Email-ffcce6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/TON-LINKEDIN/"><img src="https://img.shields.io/badge/-LinkedIn-pink?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:TON-MAIL"><img src="https://img.shields.io/badge/-Email-ffcce6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
