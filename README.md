@@ -46,7 +46,7 @@
 <br>
 <br>
 <div align="center">
-  <img src="img/cute_eyes.jpg" width="100"/>
+  <img src="img/cute_eyes.jpg" width="250"/>
 </div>
 <br>
 <br>
