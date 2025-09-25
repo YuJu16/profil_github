@@ -7,7 +7,7 @@
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=header&text=&fontSize=0" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXk0eTQzZ2I1OHN6OW42eHcxcDByeGJ3bjNsZ3VjNXhlbG9xdXE1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7rWT2mzgyxrzYyUdVg/giphy.gif" />
 </div>
 
 ---
