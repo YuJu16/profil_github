@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I’m Ju 🦋</h1>
 
 <p align="center">
-  <img src="https://pin.it/3cFmJUR4C" width="200" alt="Butterfly gif"/>
+  <img src="https://fr.pinterest.com/pin/52917364367313839" width="200" alt="Kitty gif"/>
 </p>
 
 ---
