@@ -13,11 +13,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="img/cute_eyes.jpg" width="100%" height="20"/>
+  <img src="img/cute_eyes.jpg" width="400"/>
 </div>
 
 ### 🌸 About Little Me ૮ ˶ᵔ ᵕ ᵔ˶ ა
@@ -44,7 +40,7 @@
 </div>
 
 <div align="center">
-  <img src="img/cute_eyes.jpg" width="100%" height="20"/>
+  <img src="img/cute_eyes.jpg" width="400"/>
 </div>
 
 ### 🛠️ My Cute Tech Stack ♡(˶╹̆ ‸╹̆ ˵)♡
@@ -62,7 +58,7 @@
 </div>
 
 <div align="center">
-  <img src="img/cute_eyes.jpg" width="100%" height="20"/>
+  <img src="img/cute_eyes.jpg" width="400"/>
 </div>
 
 ### 🦋 Daily Vibes & Aesthetic ‧₊˚ ⋅
@@ -84,7 +80,7 @@
 </div>
 
 <div align="center">
-  <img src="img/cute_eyes.jpg" width="100%" height="20"/>
+  <img src="img/cute_eyes.jpg" width="400"/>
 </div>
 
 ### 📊 My Cute Stats ૮₍ ˶• ˕ •˶ ₎ა
@@ -102,7 +98,7 @@
 </div>
 
 <div align="center">
-  <img src="img/cute_eyes.jpg" width="100%" height="20"/>
+  <img src="img/cute_eyes.jpg" width="400"/>
 </div>
 
 ### 🎀 Fun Facts About Me ˶ᵔ ᵕ ᵔ˶
@@ -117,7 +113,7 @@
 </div>
 
 <div align="center">
-  <img src="img/cute_eyes.jpg" width="100%" height="20"/>
+  <img src="img/cute_eyes.jpg" width="400"/>
 </div>
 
 ### 🌷 Let's Be Friends! ♡⸝⸝ ʚ♡ɞ ⸝⸝♡
@@ -134,11 +130,15 @@
   <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%"/>
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&text=Thanks+for+visiting!&fontSize=20&fontColor=FF69B4" />
-</div>
-
 <p align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+  <em><b>"Coding my way through life, one cute commit at a time"</b></em>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+</p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=TON-USERNAME&color=FF69B4&style=for-the-badge&label=Profile+Views" />
+</div>
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
   <em><b>"Coding my way through life, one cute commit at a time"</b></em>
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
