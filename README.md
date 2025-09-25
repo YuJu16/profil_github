@@ -1,9 +1,11 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&weight=700&size=38&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&height=70&lines=Hi+there!+I'm+Ju+%F0%9F%A6%8B;Welcome+to+my+world+%E2%9C%A8;Let's+code+together+%F0%9F%8C%B8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&weight=700&size=38&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&height=70&lines=Hi+there!+I'm+Ju+%F0%9F%A6%8B;Welcome+to+my+world+%F0%9F%A6%8B;Let's+code+together+%F0%9F%8C%B8" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWtyaHoycG81dDR2bmpwM2gxcGhkYWthM2ZzNndvaWI1cTJ2cGtpcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/yP5lOY2U4QaQqJn2Wj/giphy.gif" width="200" alt="Cute butterfly"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWtyaHoycG81dDR2bmpwM2gxcGhkYWthM2ZzNndvaWI1cTJ2cGtpcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/yP5lOY2U4QaQqJn2Wj/giphy.gif" width="60" alt="Cute butterfly"/>
+  <em style="color: #ffa3d1ff; font-size: 18px;">Welcome to my world</em>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWtyaHoycG81dDR2bmpwM2gxcGhkYWthM2ZzNndvaWI1cTJ2cGtpcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/yP5lOY2U4QaQqJn2Wj/giphy.gif" width="60" alt="Cute butterfly"/>
 </p>
 
 <div align="center">
