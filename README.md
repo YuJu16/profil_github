@@ -1,46 +1,106 @@
-<h1 align="center">Hi there, I’m Ju 🦋</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&weight=700&size=38&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&height=70&lines=Hi+there!+I'm+Ju+%F0%9F%A6%8B;Welcome+to+my+world+%E2%9C%A8;Let's+code+together+%F0%9F%8C%B8" alt="Typing SVG" />
+</div>
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3FuNzIwcWFycTMyMnB2bmtiaXBzZGsxOWJ2a2ttanE0NnE0OWU1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vMSXa7KFGx49aeeXhe/giphy.gif" width="200" alt=" gif"/>
+  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="200" alt="Cute butterfly"/>
+</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=header&text=&fontSize=0" />
+</div>
+
+---
+
+### 🌸 About Little Me ૮ ˶ᵔ ᵕ ᵔ˶ ა
+
+```
+┌─────────────────────────────────┐
+│  ✨ Creative Web Developer      │
+│  🦋 Butterfly & Pastel Lover   │  
+│  🌸 Dreaming in Code           │
+│  ☀️ Spreading Joy & Creativity │
+│  🎀 Always Learning Something  │
+└─────────────────────────────────┘
+```
+
+<p align="center">
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino.gif?raw=true" width="300" />
 </p>
 
 ---
 
-### 🌸 About Me
-✨ Creative Web Developer in the making  
-🦋 Love pastel aesthetics, butterflies & cute designs  
-☀️ Always shining brighter through code  
+### 🛠️ My Cute Tech Stack ♡(˶╹̆ ‸╹̆ ˵)♡
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github,vscode&theme=light" />
+</div>
 
----
-
-### 🛠️ Languages & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github,vscode" />
+  <img src="https://img.shields.io/badge/Learning-Always-FF69B4?style=for-the-badge&logo=heart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Coding-With Love-FFB6C1?style=for-the-badge&logo=heart&logoColor=white"/>
 </p>
 
 ---
 
-### 🦋 Aesthetic Vibes
+### 🦋 Daily Vibes & Aesthetic ‧₊˚ ⋅
+<div align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="150" alt="Cute coding"/>
+  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="150" alt="Cute flowers"/>  
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="150" alt="Cute stars"/>
+</div>
+
+```
+    🌸 Morning: Coffee + Code
+    🦋 Afternoon: Creating Magic  
+    ✨ Evening: Learning New Things
+    🌙 Night: Dreaming of Tomorrow
+```
+
+---
+
+### 📊 My Cute Stats ૮₍ ˶• ˕ •˶ ₎ა
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TON-USERNAME&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON-USERNAME&layout=compact&langs_count=7&theme=buefy"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TON-USERNAME&theme=buefy" alt="streak stats"/>
+</div>
+
+---
+
+### 🎀 Fun Facts About Me ˶ᵔ ᵕ ᵔ˶
+- 🦋 I collect cute code snippets like butterflies
+- 🌸 I name my variables with adorable names
+- ☀️ I believe every bug is just a feature in disguise
+- 🎨 I dream in pastel color codes
+- 🌈 My favorite debugging tool is a cup of tea and positive vibes
+
+---
+
+### 🌷 Let's Be Friends! ♡⸝⸝ ʚ♡ɞ ⸝⸝♡
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" width="200" alt="Sun gif"/>  
-  <img src="https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif" width="200" alt="Cute butterflies"/>  
+  <a href="https://www.linkedin.com/in/TON-LINKEDIN/">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's Connect!-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:TON-MAIL">
+    <img src="https://img.shields.io/badge/Email-Say Hi!-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-### ☀️ GitHub Stats
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&text=Thanks+for+visiting!&fontSize=20&fontColor=FF69B4" />
+</div>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TON-USERNAME&show_icons=true&theme=rose_pine" />
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+  <em><b>"Coding my way through life, one cute commit at a time"</b></em>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 </p>
 
----
-
-### 🌷 Let’s Connect
-<p align="center">
-  <a href="https://www.linkedin.com/in/TON-LINKEDIN/"><img src="https://img.shields.io/badge/-LinkedIn-pink?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:TON-MAIL"><img src="https://img.shields.io/badge/-Email-ffcce6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
----
-
-<p align="center">✨🦋 "Spreading my wings through creativity & code" 🦋✨</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=TON-USERNAME&color=FF69B4&style=for-the-badge&label=Profile+Views" />
+</div>
