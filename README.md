@@ -1,11 +1,7 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&weight=700&size=38&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&height=70&lines=Hi+there,+I'm+Ju+%F0%9F%A6%8B" alt="Typing SVG" />
-</div>
-
 <div align="center" style="position: relative;">
   <img src="img/txt_bulle.png" width="400" alt="Text bubble"/>
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: #FF69B4; font-family: 'Comfortaa', cursive; font-size: 24px; font-weight: bold;">
-    Hello, I'm Ju 🦋
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: #FF69B4; font-family: 'Comfortaa', cursive; font-size: 28px; font-weight: bold;">
+    Hi there, I'm Ju 🦋
   </div>
 </div>
 
@@ -175,6 +171,10 @@
 </div>
 
 <p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWNyczVoNGI1NXR6YnZ3c2Ryd2tyb2VsaXBkbWo0MHBoeWdxOXU0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/y5ncrsCFzZOzINK7qD/giphy.gif" width="60"> 
+  <em><b>"Coding my way through life, one cute commit at a time"</b></em>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWNyczVoNGI1NXR6YnZ3c2Ryd2tyb2VsaXBkbWo0MHBoeWdxOXU0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/y5ncrsCFzZOzINK7qD/giphy.gif" width="60">
+</p>
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWNyczVoNGI1NXR6YnZ3c2Ryd2tyb2VsaXBkbWo0MHBoeWdxOXU0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/y5ncrsCFzZOzINK7qD/giphy.gif" width="60"> 
   <em><b>"Coding my way through life, one cute commit at a time"</b></em>
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWNyczVoNGI1NXR6YnZ3c2Ryd2tyb2VsaXBkbWo0MHBoeWdxOXU0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/y5ncrsCFzZOzINK7qD/giphy.gif" width="60">
